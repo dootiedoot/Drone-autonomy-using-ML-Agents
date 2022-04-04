@@ -5,7 +5,7 @@ Using Unity's ML Agents to teach a virtual drone to fly and do tasks using reinf
 ## Basic quad copter learning to hover example
 <img src='./media/drone_quad_regular.gif'>
 
-## Irregular quad copter learning to hover example
+## Irregular quad copter learning to hover example (with external nudging forces test)
 <img src='./media/drone_quad_irregular.gif'>
 
 ## Drone attempting to land on a platform
